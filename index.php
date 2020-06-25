@@ -1,1 +1,1 @@
-<?php include_once("wtf.php") ?>
+<?php include_once("index.html") ?>
